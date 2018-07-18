@@ -1,2 +1,2 @@
 # minor1
-banking
+Bank Application using Java and MySQL DB
